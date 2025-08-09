@@ -76,9 +76,4 @@ Currently, I'm pursuing a **BSE in Software Engineering** at the Open University
 
 ---
 
-### ⚡ Fun Fact
-I once optimized a SQL query to run 10x faster, saving a healthcare client hours of processing time! 🚀
-
----
-
 ![Snake Animation](https://github.com/AGBJayanidu/AGBJayanidu/blob/output/github-snake-dark.svg)

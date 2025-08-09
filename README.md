@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Basura Jayanidu
+# 👋 Hi, I'm Basura Jayanidu - I love building things that make life easier.
 
 **Full-Stack Engineer | Angular | .NET | Colombo, Sri Lanka**
 

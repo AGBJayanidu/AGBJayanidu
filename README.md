@@ -45,14 +45,23 @@ Currently, I'm pursuing a **BSE in Software Engineering** at the Open University
 
 ---
 
-### 🏢 Work Experience
-- **Associate Software Engineer** | Data Capture Experts *(Jan 2024 - Present)*  
-  Delivered 300+ development and bug-fixing tasks for healthcare clients, optimizing SQL queries for performance and ensuring HIPAA compliance. Contributed to two major projects using Angular and .NET.
+## 🏢 Work Experience
 
-- **Undergraduate Trainer** | IFS *(Dec 2022 - 2023)*  
-  Worked with Oracle PL/SQL, C#, and .NET to develop customized reports and resolve client issues. Used Git for version control and collaborated on Oracle Database solutions.
+**Software Engineer | Innov8 Fusion**  
+*May 2025 – Present*  
+- Developing and maintaining web applications using **Angular**, **WordPress**, **.NET**, **C#**, **React**, and **Next.js**.  
+- Collaborating on full-stack solutions, optimizing front-end and back-end performance, and integrating **RESTful APIs** for dynamic user experiences.  
 
----
+**Associate Software Engineer | Data Capture Experts**  
+*Jan 2024 – May 2025*  
+- Delivered **300+** development and bug-fixing tasks for healthcare clients, optimizing **SQL queries** for performance and ensuring **HIPAA compliance**.  
+- Contributed to two major projects using **Angular** and **.NET**.  
+
+**Undergraduate Trainer | IFS**  
+*Dec 2022 – 2023*  
+- Worked with **Oracle PL/SQL**, **C#**, and **.NET** to develop customized reports and resolve client issues.  
+- Used **Git** for version control and collaborated on **Oracle Database** solutions.
+
 
 ### 🎓 Education
 - **BSE Software Engineering (Hons)** | Open University of Sri Lanka *(2021 - Present)*  

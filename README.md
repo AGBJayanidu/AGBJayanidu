@@ -1,4 +1,4 @@
-👋 Hi, I’m Basura Jayanidu — I build things that work and wow.
+# **👋 Hi, I’m Basura Jayanidu — I build things that work and wow.**
 
 **Full-Stack Engineer | Angular | .NET | Colombo, Sri Lanka**
 

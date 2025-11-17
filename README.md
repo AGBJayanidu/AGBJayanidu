@@ -44,7 +44,6 @@ Currently, I'm pursuing a **BSE in Software Engineering** at the Open University
   Built a Python-based system for route optimization, driver allocation, and fare calculations, ensuring scalability and performance.
 
 ---
-
 ## 🏢 Work Experience
 
 **Software Engineer | Innov8 Fusion**  
@@ -89,5 +88,7 @@ Currently, I'm pursuing a **BSE in Software Engineering** at the Open University
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 

@@ -84,5 +84,10 @@ Currently, I'm pursuing a **BSE in Software Engineering** at the Open University
 - **GitHub**: [AGBJayanidu](https://github.com/AGBJayanidu)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
-![Snake Animation](https://github.com/AGBJayanidu/AGBJayanidu/blob/output/github-snake-dark.svg)
+
